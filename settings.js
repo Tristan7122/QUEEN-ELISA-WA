@@ -8,7 +8,7 @@ OWNER: @darkmakerofc | @MR-NIMA-X
 module.exports = {
   SESSION_ID: process.env.SESSION_ID || 'QUEENELISA;;;==AOxpGRBVza2UXaRlEV6hmZBJHeRpVQElEazBFc1gVYiBDOfJDVmZlcCRjYjIlSBJVQ4EUMpwd=47678843772',
   ALIVE_REACT: '👋',
-  ALIVE_MESSAGE: `*Hello @name I am Alive Now !*
+  ALIVE_MESSAGE: '*Hello @name I am Alive Now !*
 
 ⏰ Now time is @time
 📅 Date : @date
@@ -21,7 +21,7 @@ module.exports = {
 ☫ Work Mode : @mode
 ☫ Work Type : @worktype
 
-Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
+Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ',
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
   MONGODB_URL: process.env.MONGODB_URL|| 'mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority',
   PREFIX: '.$&',
